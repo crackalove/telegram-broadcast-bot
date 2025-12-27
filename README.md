@@ -1,4 +1,4 @@
-# Telegram Broadcaster (Telethon)
+# Telegram Mailing (Telethon)
 
 Авторассылка сообщений в Telegram через вашу сессию Telethon.
 
