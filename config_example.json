@@ -1,0 +1,9 @@
+{
+  "api_id": 12345,
+  "api_hash": "your_api_hash",
+  "session_name": "my_session",
+  "interval_minutes": 1,
+  "jitter_ratio": 0.1,
+  "chat_list": ["@channel_or_chat1", "@channel_or_chat2"],
+  "messages": ["Мое сообщение"]
+}
